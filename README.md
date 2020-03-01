@@ -58,11 +58,13 @@ In two separate windows, select "/evetns_ori" and "/events_ivt", then you will s
 
 在窗口中分别选择"/events_ori"与"/events_ivt"
 
-<img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20200301125942253.png" alt="image-20200301125942253" style="zoom:50%;" />
+![Runing inverter](https://github.com/LarryDong/dvs_inverter/blob/master/.pictures/graph.png)
 
 You can also use rqt to see the graph
 
 使用rqt指令可查看消息传递关系
+
+![Graph](https://github.com/LarryDong/dvs_inverter/blob/master/.pictures/graph.png)
 
 ![image-20200301130534831](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20200301130534831.png)
 
