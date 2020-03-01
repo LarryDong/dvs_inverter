@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>test</name>
+  <version>0.0.0</version>
+  <description>The test package</description>
+  <license>MIT</license>
+  <maintainer email="jfjxxdy2007@126.com">larrydong</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>std_msgs</depend>
+  <depend>dvs_msgs</depend>
+
+  <export>  </export>
+</package>
